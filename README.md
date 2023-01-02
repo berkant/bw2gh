@@ -1,2 +1,2 @@
 # bw2drive
-Export your Bitwarden vault to Google Drive.
+Export your Bitwarden vault to GitHub.
