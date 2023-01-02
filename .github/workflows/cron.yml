@@ -1,0 +1,35 @@
+name: Export Bitwarden Vault
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * *'
+    
+env:
+  BW_LOWDB_PATH: "$HOME/.config/Bitwarden CLI/data.json"
+
+jobs:
+  export:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - run: sudo npm install -g @bitwarden/cli@2022.11.0
+      - run: bw config server ${{ secrets.BW_SERVERURI }}
+      - run: bw login --apikey
+        env:
+          BW_CLIENTID: ${{ secrets.BW_CLIENTID }}
+          BW_CLIENTSECRET: ${{ secrets.BW_CLIENTSECRET }}
+      # - run: wget -O /tmp/rclone.deb https://github.com/rclone/rclone/releases/download/v1.61.1/rclone-v1.61.1-linux-amd64.deb && sudo dpkg -i /tmp/rclone.deb
+      # - run: rclone copy --log-level=ERROR -P "`envsubst <<< $BW_LOWDB_PATH`" :drive:Bitwarden_CLI_Backup/
+      #   env:
+      #     RCLONE_DRIVE_TOKEN: ${{ secrets.RCLONE_DRIVE_TOKEN }}
+      - run: jq '.authenticatedAccounts[] as $accounts | setpath([$accounts, "keys", "apiKeyClientSecret"]; "[REDACTED]") | setpath([$accounts, "tokens", "accessToken"]; "[REDACTED]") | setpath([$accounts, "settings", "environmentUrls", "base"]; "https://[REDACTED]") | setpath(["global", "environmentUrls", "base"]; "https://[REDACTED]")' "`envsubst <<< $BW_LOWDB_PATH`" > bw.lowdb.json
+      - run: |
+          set -euxo pipefail
+           
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+           
+          git add -A
+          git commit --allow-empty -am "auto: sync vault"
+          git push
