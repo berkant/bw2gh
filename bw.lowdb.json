@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "91d64efd-cbc0-4924-8bd3-0d286211b923",
+  "appId": "dd3cc9ce-621a-4976-a4be-0bc557ea46e2",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -1887,35 +1887,6 @@
                 {
                   "match": null,
                   "uri": "2.z8USPjESYwYVPirJgvqUKg==|QtyUmRXlwc7SIy6Ke2EBb122M4gBaJELpr1nEbchlZw=|OVB9DiaDOxAwkxQ48jk5Wz4mn1q56UBHomwmHkbh5Xc="
-                }
-              ]
-            }
-          },
-          "68b7e4b1-296f-4945-9f77-8363380dfee3": {
-            "id": "68b7e4b1-296f-4945-9f77-8363380dfee3",
-            "organizationId": null,
-            "folderId": null,
-            "edit": true,
-            "viewPassword": true,
-            "organizationUseTotp": true,
-            "favorite": false,
-            "revisionDate": "2022-12-28T22:57:37.652527Z",
-            "type": 1,
-            "name": "2.I/4ECMrgWOXF6NLyZIjdNA==|9TmZrVo/LzOFsOesiKa7VlFOneS8yEBu5FD5xsI+rRs=|nij/DEnWfXnGE76fmnIVOTW/y1PzCQu8H7QPdMx8QZw=",
-            "notes": null,
-            "collectionIds": [],
-            "deletedDate": null,
-            "reprompt": 0,
-            "login": {
-              "username": "2.Pm+/ICecGuK1IvPqq6xT5Q==|8A8RKPHf3B7OP0GwdVWYzg==|NnfCuYKmJVbO+SMHFgPrUU/4sn4VFOq6u+7O0s2u4fY=",
-              "password": "2.BFCF9iC1sUiN/KEDq1D/Og==|mPgjR8MRfCtbaw1vIQfkG28tId97dpxSLPsvOcZ3rGM=|UKj/uwnPphAzAxZzmh0vYHssSkq1PNdjCT6N4Tj5jkk=",
-              "passwordRevisionDate": null,
-              "totp": null,
-              "autofillOnPageLoad": null,
-              "uris": [
-                {
-                  "match": null,
-                  "uri": "2./JZP8g8+v7Ac/9WLNPWuLQ==|6dYyvjJB2Mmlitu4pbAacbwKJr90+Eemh9TdrWcyriwLebDk5+RtL/nZ4LHXvMXX|ZroseLwcY5zMazzFAttT/uYMluGwwAm+4jQg2HRsAfw="
                 }
               ]
             }
@@ -4408,7 +4379,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-01-04T21:12:56.463Z"
+      "lastSync": "2023-01-04T22:24:36.892Z"
     },
     "settings": {
       "environmentUrls": {
@@ -4436,7 +4407,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1672866776347
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1672871076762
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
