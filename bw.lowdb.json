@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "f4b653f2-c5da-4233-9d00-c995584068f2",
+  "appId": "09f41cf9-8037-4288-87f2-9548cb994ddd",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -4352,7 +4352,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-01-28T21:11:33.400Z"
+      "lastSync": "2023-01-29T21:11:26.463Z"
     },
     "settings": {
       "environmentUrls": {
@@ -4380,7 +4380,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1674940293285
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1675026686347
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
