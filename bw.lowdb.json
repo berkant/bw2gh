@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "221b7ee5-e6ef-420b-9b47-e47d22212e52",
+  "appId": "a6a306b4-a031-481d-8ae7-52f870b3df2a",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -2152,6 +2152,35 @@
               ]
             }
           },
+          "75b8c667-4db3-4cdc-82b1-4fe924936e8c": {
+            "id": "75b8c667-4db3-4cdc-82b1-4fe924936e8c",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-04-06T20:55:19.448622Z",
+            "type": 1,
+            "name": "2.5f6/HLIq/tuBqia45Mq2FA==|XM2tyCYDlxlIxppj81+MDw==|xQEJo9zViJvXdEMRwVvTh3X+IxkoD4ck49zNqKPThGY=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.p/HKXKl6sL37VQQVi1K2zw==|JrRET8od0SVMFl4Z5OBz8PoUNrNWPdkOonhlEiHe9QA=|x/SZIY3wkzFgQGGV00yGx6dSgyQMdL5T0GMl3AKfEwA=",
+              "password": "2.QwXeCVux+YjIiBCUQuKF+g==|Yl1YgV9i7uIHnG1AW7HLmQ==|5/3psE2MIPqw8fnOq4VzLatqMMSw/aU+KjByxgt2+eM=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.DLnIedV69iksbyoY4CGU6A==|UNR4c24i2FRbN6949LMsBBXnxYo/umotllTEI0hPlus=|9Qfrw0esg5QVXVGoCeejrYe6BROvqAHAQL0I9cIXr+g="
+                }
+              ]
+            }
+          },
           "771d3be1-2d3c-4098-bbb3-a8f5fd677780": {
             "id": "771d3be1-2d3c-4098-bbb3-a8f5fd677780",
             "organizationId": null,
@@ -2322,6 +2351,35 @@
                 {
                   "match": null,
                   "uri": "2.cVw/ZwM6Vvv1QKkuqxMR5A==|GJ4h7SV19v2+5ex2MlzrUkg0gFaeI8vsLR/IBaisksur8PKOCP9X1qiffiWxgM9+|a9DVjLLniy2YhHTiK50tgoY2L9guBGbNW/KiQEw6D+s="
+                }
+              ]
+            }
+          },
+          "838a03e6-8fb8-49d3-86f7-78224686a8c8": {
+            "id": "838a03e6-8fb8-49d3-86f7-78224686a8c8",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-04-06T00:48:56.467056Z",
+            "type": 1,
+            "name": "2.RlEsQmJxZwQVVKS4v6aNHQ==|hsox8B/J4XDg7KGwxColV3G9PK91y0kvFAnBjwOJfcs=|m6uYVPB7WsuiUu5rJzLuaP/Ri+drle50oZs9Ji8MX8s=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.mZT7JEy3CRHPEFGzcQ2E7Q==|Iq+xS3j4hqTNcFmBjZg1A1e70QLjLa6AHCphv5DDID0=|V7MKpECz9YZdSZP659LM25zdpGZqwEdU9sRwOMYKfDU=",
+              "password": "2.y/oekgSCsJ7kh5B5Jh48Mw==|bnPQpfD2x5IwnwdU8k6Wyw==|lH08tk+le6nEEQXno67z1FGp5p6JQlYtZ93BnPt0lsc=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.9stvXiNVtBcXXZ7hr5+JzQ==|myekgGOpTK+Lq35lXnos/ckW1iG/tkhPMsG+FoKtAzLHyTRLWDr24Fj3gVuZkGFQFXkPwoU+Tk9+DhpXceNgfPL6eQ1ywnFyCdhESYQ1seH+rvT+P2QsaPWpMQByMUYO3wWMqfQmJW00B+3xYjJ9Wg==|NGc1xrn4gR3nf170UfU+6EadLWxLvyzz59AjomsNAc0="
                 }
               ]
             }
@@ -4613,7 +4671,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-04-05T21:12:41.577Z"
+      "lastSync": "2023-04-06T21:10:33.701Z"
     },
     "settings": {
       "environmentUrls": {
@@ -4641,7 +4699,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1680729161456
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1680815433583
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
