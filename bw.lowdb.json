@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "b0ff304a-1fd9-413e-b27c-03ef2c201ff5",
+  "appId": "d807bbd4-7b1c-4a2a-be5d-7a621f359036",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -662,6 +662,35 @@
                 {
                   "match": null,
                   "uri": "2.tLP9SXl/XQ5Jf3yDefMABQ==|NniYJwVHa5bzELUrD6Vb+Y5IXzAVuiGYpzr6w7y1DJTzpgsr0T1aamA5x77BQrLi|53bsAEb2H05pzNgGE3casjnb8cMh+nOK1zUKHrVJ6bI="
+                }
+              ]
+            }
+          },
+          "17cc5c8d-0246-49c7-84d7-01c087f53cb3": {
+            "id": "17cc5c8d-0246-49c7-84d7-01c087f53cb3",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-05-07T01:43:35.145403Z",
+            "type": 1,
+            "name": "2.j3+sJvAhQSiyO8xrv5uL1Q==|d59CT4LMbHyN+i8MDDyZwF1tPplRwqrbRlVy066PBKWczNCJLLB03dwF1PdbPG9E|WQYvhumCHfDyhQkB0YJg6j6Pewc5vUxw8c53KdJu1bE=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.+fzRKXTK7boH5IZkW9nZow==|HUWUvR90yJRpesWcAqHeE2M8rpjY/F2eZJLmf2iUZiY=|ffOXm5oCxw0bHgKVJdHFoJxZpzwBNSPnZsUGO+s+ttg=",
+              "password": "2.wO8/1dBGTMuP+5I5VMCOlQ==|NtcvCSS1zkE7Ye3oDDBhOA==|JR5S9Cl7QNdJPsvy98hL7SZHrT5f508pZNZ/QDAdhWk=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.MpVTeoCf0wfGqOh7kCrLHQ==|lmAaelxS1He/APn60ADTibT4IcdN0fI8a+DzB7WJPtoMTOX7Ul1BobieIvURhOD/aEW4RXvOxcl+0fdkGXxFBw==|4oGQXPqkCHLKe3tEBNmV0LzZQnUrN06gOYoofWUflTU="
                 }
               ]
             }
@@ -4764,7 +4793,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-05-06T21:11:18.229Z"
+      "lastSync": "2023-05-07T21:11:52.581Z"
     },
     "settings": {
       "environmentUrls": {
@@ -4792,7 +4821,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1683407478095
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1683493912466
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
