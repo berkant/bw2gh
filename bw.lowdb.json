@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "3e03dfd0-7020-49d4-a0b5-7672bebfb9d3",
+  "appId": "271be1c2-b855-4383-bad5-ea906d45fca1",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -674,23 +674,23 @@
             "viewPassword": true,
             "organizationUseTotp": true,
             "favorite": false,
-            "revisionDate": "2023-05-07T01:43:35.145403Z",
+            "revisionDate": "2023-05-08T21:31:29.962126Z",
             "type": 1,
-            "name": "2.j3+sJvAhQSiyO8xrv5uL1Q==|d59CT4LMbHyN+i8MDDyZwF1tPplRwqrbRlVy066PBKWczNCJLLB03dwF1PdbPG9E|WQYvhumCHfDyhQkB0YJg6j6Pewc5vUxw8c53KdJu1bE=",
+            "name": "2.WB/UZUdMtIv56J9gGrDa9A==|fOJKDpk0UqcoUPZ5ANLpGWZVNkQcOf0Bt39vGo15t6g/fa1AkXX4+DqeMa0ZC9Od|UUKP2e0RTX96PcllRHn14weOgCHNxuaW1yO3ToKN/7g=",
             "notes": null,
             "collectionIds": [],
             "deletedDate": null,
             "reprompt": 0,
             "login": {
-              "username": "2.+fzRKXTK7boH5IZkW9nZow==|HUWUvR90yJRpesWcAqHeE2M8rpjY/F2eZJLmf2iUZiY=|ffOXm5oCxw0bHgKVJdHFoJxZpzwBNSPnZsUGO+s+ttg=",
-              "password": "2.wO8/1dBGTMuP+5I5VMCOlQ==|NtcvCSS1zkE7Ye3oDDBhOA==|JR5S9Cl7QNdJPsvy98hL7SZHrT5f508pZNZ/QDAdhWk=",
+              "username": "2.iuXC48xLL1m9ThCMQvInAg==|teVus5Nvk+ffwR1eXvc8qWheAtuyTUHaZ46dTWXwrk4=|NHkHoXo+wmjytgAxthWQY/10wiw59HMbH7I7sGeZ9FM=",
+              "password": "2.ZPukR8Cu0ref6sLVenMSAQ==|BWApMToVd+O/G411WEcmWg==|hf8EtxzlTv9IZEc+9GYEMT2178LT/OImCi1LRqfnY3U=",
               "passwordRevisionDate": null,
-              "totp": null,
+              "totp": "2.Ti7T9XP21t6JGg1H9Czz9g==|ErOCLbSU/ir3OxwyIOCILWRMpV7mx9Jcl+Zkmk0fito=|L4hOHc3xgm+bSCDqFNftRN0H3Efrw65fwq8mu5pxEG4=",
               "autofillOnPageLoad": null,
               "uris": [
                 {
                   "match": null,
-                  "uri": "2.MpVTeoCf0wfGqOh7kCrLHQ==|lmAaelxS1He/APn60ADTibT4IcdN0fI8a+DzB7WJPtoMTOX7Ul1BobieIvURhOD/aEW4RXvOxcl+0fdkGXxFBw==|4oGQXPqkCHLKe3tEBNmV0LzZQnUrN06gOYoofWUflTU="
+                  "uri": "2.tSlnlaOeCFhvm43xIig53Q==|E+7Mjj7IizmEOANf66cMLUhGV7WhRGrHuhKvO7cpUv68tXc2yk23PtnO+GbAYMgC3nVb+E4eBJwoz/m7XOQWnA==|uLQhGOwMDteL5Fn5rHUBppaRKBtTZCcaQUtghiJBihU="
                 }
               ]
             }
@@ -4851,7 +4851,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-05-08T21:11:32.817Z"
+      "lastSync": "2023-05-09T21:11:07.132Z"
     },
     "settings": {
       "environmentUrls": {
@@ -4879,7 +4879,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1683580292695
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1683666667015
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
