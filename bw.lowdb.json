@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "8d6c444b-26bf-4d6e-a1a7-928e933692a0",
+  "appId": "1dcc775e-ecd8-4e7c-a67a-8ae470c0fbe5",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -454,6 +454,35 @@
                 {
                   "match": null,
                   "uri": "2.b9Wb20vMaq+7kzBYu4RH7w==|fE/HZZzrll7kSuRbJpX/fajN6nXbkouKMcInS/hhkX4=|KTs/3xXDP6vC9ruU27Ha+jBCRy7mQqJZ91bOE2sgoNg="
+                }
+              ]
+            }
+          },
+          "0f494c61-6112-4526-9345-e8b036b56393": {
+            "id": "0f494c61-6112-4526-9345-e8b036b56393",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-05-29T23:49:06.601708Z",
+            "type": 1,
+            "name": "2.+IaECqNc+wc++9Zw7ZznnQ==|dOONMFUVrJG7tlSOGZdzoSbAhcdUQr7AD6AB/kLt+s4=|QMIcrLt7yZmDNyrVu1wzp3o4gUk0ckzXyBjN9CIIILc=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.wVfi+TJKrTVtOAO+zGNmKQ==|Ve2j1TxY9UboeImwGZg7iVFIkWyCZClCuiwnIKXabyg=|kOEbfm1wQjn9im5Yex7hudoadPv/1R+soq6i3coyoWQ=",
+              "password": "2.wUGg7B8aZInwDmXlBxJPDw==|ip/Xwo4w13vkwKAo8GoJwQ==|eW9KVVm1fVMcs/kjnjN9ZQwqz47kDsoh3Wb01biLsIU=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.VTcaP0y6YBXre2cDBzKhTQ==|DiQ8jvV/U0kqVVthssZS6DAyVrlKP2uF2wOzqgn7t1NfSsI8b5n4ims0QlKDadOZ|jlPaN8kISNrCpEoIKhXB7g0EqqcqfYq1nPjoid4VLcQ="
                 }
               ]
             }
@@ -4880,7 +4909,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-05-29T21:11:23.468Z"
+      "lastSync": "2023-05-30T21:11:10.343Z"
     },
     "settings": {
       "environmentUrls": {
@@ -4908,7 +4937,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1685394683347
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1685481070225
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
