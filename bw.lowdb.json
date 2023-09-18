@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "6494b9d0-412e-4697-8a60-ee270363f03b",
+  "appId": "f22d30f5-8bc8-4484-830c-612a4abd68c4",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -2713,6 +2713,35 @@
               ]
             }
           },
+          "8b4ae043-8d7a-481b-9c38-df1aa1fa57ea": {
+            "id": "8b4ae043-8d7a-481b-9c38-df1aa1fa57ea",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-09-17T21:25:43.751237Z",
+            "type": 1,
+            "name": "2.w1upmUKeBxV5b8/dXCe/7g==|kFgFAZvM+h1kS/g7r/uQC6ebiWvH8FOZXoO5aV81Luo=|q3psQqlx+gI54NIemi0aldz72lhQZarf3SK7E1/A2nU=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.MrMpqk79jfULDYeMhY1bug==|/LVyAw3tgNgdF0oaQ4iXC10ew8sTsU5sRKotebMsrVo=|hyQOF9AaiTKNqYHDrUfk7m9T0KDYGLt9erdQFElGBws=",
+              "password": "2.BkU8075O/Awkri7c5QrmbA==|vmi/E7lP+xWOFWzAr+dub9DPnMC+CSFZy2/yG2uFvYg=|a8qiPJGWvZhCaGJhQgxeGusVVCxHgd3OvOwtmAt58Rs=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.X/7/ZbPKgg+p8PBhYKI28A==|TgyahboW3kaNmYG4yjJQCgy3Ek8kassQA9yI4AUmp+VHrZ7CUgnfoRfoBvd1eUIE|MwEkvYD3mrzAnvXg8rBCJJh+L23D6YaL59UsG+sPbqQ="
+                }
+              ]
+            }
+          },
           "8c13bf17-1129-49fc-8336-b246c7f93c4f": {
             "id": "8c13bf17-1129-49fc-8336-b246c7f93c4f",
             "organizationId": null,
@@ -4944,7 +4973,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-09-17T21:10:13.658Z"
+      "lastSync": "2023-09-18T21:11:11.966Z"
     },
     "settings": {
       "environmentUrls": {
@@ -4972,7 +5001,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1694985013532
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1695071471838
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
