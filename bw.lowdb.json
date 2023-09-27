@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "bacf0e34-aeb9-4ca9-bcbd-39d663e39546",
+  "appId": "912d93b8-2c13-417c-aaa8-f758f16a8710",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -3536,6 +3536,34 @@
               ]
             }
           },
+          "b03a48de-d009-4a20-b00a-a24071db5fbe": {
+            "id": "b03a48de-d009-4a20-b00a-a24071db5fbe",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-09-27T00:29:39.914977Z",
+            "type": 1,
+            "name": "2.IiRx+HubPBdvQP3xxkWfiw==|y6yCBkLZANbz/MG3O84tZA==|N4O4ta4j485SA4yLk1f1OlvNW2+Fd7GItOHuICCW+Fw=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": null,
+              "password": "2.lusjxCmmfbUoxRwzE0x8Sw==|PTIssXSr+PjY4MMKm96uLw==|EBF2wj1n49PW09S81wkvxTlSzTqdc3n6sGLlFylVHSU=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2./ce4BEkdggg5P9EN9zzO7w==|GqDqjWU9nGOaNqi+1hOQnYEgerDymPGx+shbS+GkXpjepf1BG6ngyroD/s/fICIwOuy7YNki4aqzpxaY8A5lDQ==|QcCwvJdd3jrBTzbMb2q07EFAvuUURxhfjvTzZMzDoAg="
+                }
+              ]
+            }
+          },
           "b1536949-7d02-4c2b-8640-f0765160c590": {
             "id": "b1536949-7d02-4c2b-8640-f0765160c590",
             "organizationId": null,
@@ -5036,7 +5064,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-09-26T21:11:27.803Z"
+      "lastSync": "2023-09-27T21:11:12.096Z"
     },
     "settings": {
       "environmentUrls": {
@@ -5064,7 +5092,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1695762687666
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1695849071978
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
