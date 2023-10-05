@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "795be748-d8db-4f52-ac4f-8c586ff8ba55",
+  "appId": "edbd9494-32b9-40ab-86d6-dad3a50ce268",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -2823,12 +2823,12 @@
             "viewPassword": true,
             "organizationUseTotp": true,
             "favorite": false,
-            "revisionDate": "2023-09-22T06:24:12.572759Z",
+            "revisionDate": "2023-10-05T09:01:21.320519Z",
             "type": 1,
             "name": "2.6rcFbt7W8SoalV2w/iW0RQ==|XOcC81v2WNo7X+AiEBJej+IkRD25LDpUfc1Eyshpd4U=|DJ0KNKWc9a+frdvhbOwvaI2O2hjq3oL+Tdq3lSFfjto=",
             "notes": null,
             "collectionIds": [],
-            "deletedDate": null,
+            "deletedDate": "2023-10-05T09:01:21.320431Z",
             "reprompt": 0,
             "login": {
               "username": "2.CFOyFq7t70eLjhtDsvghiA==|Sw7VVhrb/6TNc9CGmIsv5Sk776ZoJGqqkuqF1UN+tSE=|4jsKZMA8wzCdMC8muxafVrVqmU/4obCym4hIGKhy+No=",
@@ -5142,7 +5142,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-10-04T21:12:45.335Z"
+      "lastSync": "2023-10-05T21:11:11.188Z"
     },
     "settings": {
       "environmentUrls": {
@@ -5170,7 +5170,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1696453965217
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1696540271060
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
