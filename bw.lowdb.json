@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "a6ab6e6f-2f2c-4f09-a11b-72b7ecda354d",
+  "appId": "454dae63-af7a-439c-a73e-4049f86544e1",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -553,28 +553,32 @@
             "viewPassword": true,
             "organizationUseTotp": true,
             "favorite": false,
-            "revisionDate": "2023-04-08T12:30:27.330101Z",
+            "revisionDate": "2023-10-07T08:06:05.157593Z",
             "type": 1,
-            "name": "2.3rrYY9d3+Fd9/hsS+Gfj5g==|Rg2PGUWUGyoQAX4MTd/yMi//7YxLDfPnAD5uQCCc7zU=|KnNmfDk1i3sqIgCNJ82kXZx2EQJ1wqQ5oBDjyCuFkEQ=",
+            "name": "2.qja2trHvuDyYJvRzquMnuw==|EWQ4djip58eyVWNxWd3NxPWzW8+9VIj2Nj2MtPO8myk=|H/e0+oD0bd1ulsXS0crSUd6/XnFjqgLOy16rEKVFI3M=",
             "notes": null,
             "collectionIds": [],
             "deletedDate": null,
             "reprompt": 0,
             "login": {
               "username": null,
-              "password": "2.dCecwD/ogtbEXsc17dtraQ==|Zl/82sJi/cZBaSQK4fF9/A==|hTtFYUk+z9KAtxqzhT36uCCh0gBLY2XAlr/ziov50qU=",
-              "passwordRevisionDate": "2023-04-08T12:30:26.949632Z",
+              "password": "2.ngAGKKJo1UO9ib45t8gG0g==|awYfnf0T9XieyW54uropug==|B8bFut9/Q1Txogoh6z7fnmHvr1RkaUK6vq0u7WdnacY=",
+              "passwordRevisionDate": "2023-10-07T08:06:04.74701Z",
               "totp": null,
               "uris": [
                 {
                   "match": null,
-                  "uri": "2.CkIGMcE5ZeRd+eO6Jt9TbA==|4Vh1+mrVVvwq9kC3K9iRrfEVRCr+DGAaiu+7X/63Sc2rtgJOaZjxccds4o0/OQC7|c/Gvp7ZTP4h+SAoVzdtbMj4DS64bdMJsKpRg1l4huOc="
+                  "uri": "2.oy+4i0hN6fwjDZpp7VHZ5w==|gy2eHdPfo3curba4nOaF3DwmZOyp2P4ysBeI73dUe6te3KSNs4nmQJLV8o55QmSk|gKezkG1pe2QWVfHxv4SLEqRnFVB4cpwtiH7VZCelMwk="
                 }
               ]
             },
             "passwordHistory": [
               {
-                "password": "2.wCr+JkB0y9ug9dAjt+2dTQ==|VGyVgy7UxFaTA//9kxfehw==|YfWlqTrTv1vIFWpR/qRiUVTemiAjFK13rUv2iQl5pdg=",
+                "password": "2.jUg6n2asf6F+zZ/dLji0Ag==|eKjDqwdiQ6cgJxDTVy8HDw==|iikePJ9Ng7EJjQ0qyxFKbVespnxN2qeOjfffVgmoIQ4=",
+                "lastUsedDate": "2023-10-07T08:06:04.74701Z"
+              },
+              {
+                "password": "2.tu2mnC6d61yZnCxMaxQOaw==|c4dLSZ1XxKYvvq7dvJeZUQ==|fimdxt+qkR1AkjaNNioEhRxwBfezB9/cdyzLJvGiY4w=",
                 "lastUsedDate": "2023-04-08T12:30:26.949632Z"
               }
             ]
@@ -5142,7 +5146,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-10-06T21:10:55.976Z"
+      "lastSync": "2023-10-07T21:10:14.512Z"
     },
     "settings": {
       "environmentUrls": {
@@ -5170,7 +5174,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1696626655853
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1696713014386
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
