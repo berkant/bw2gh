@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "04c9f605-f44e-4f1e-83fe-91ad49c2bc60",
+  "appId": "49ec7528-5963-465f-b00f-0722b352993f",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -1148,6 +1148,35 @@
               ]
             }
           },
+          "28fb3ef4-212b-4be2-8dd0-1f9987435ce4": {
+            "id": "28fb3ef4-212b-4be2-8dd0-1f9987435ce4",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-11-10T08:23:21.572529Z",
+            "type": 1,
+            "name": "2.8ZEOsa2GWKuEKaTrFMprng==|id80RRhsfX7bV/JXVJ/4FQ==|9fCbYY56isiwvBUuJRsnfSqqTmRYkM6CQqIQ+bMkQG0=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.RPanqIlbYyAl7E/CXvDUzA==|GImaYKAA3PXX4JwYKsT3/mcFsP5BcENI4jiP7/ASKxM=|RxHk1mzXYfXFasORCoN/a6AkJDLpMvAyPcvUs6ba6W0=",
+              "password": "2.4a+RO6feGap58L4GpQvmVQ==|o/ktSxgS1LklO8HAH5xeaRcu41inhBGOxShvYy4vvog=|xOA0m0WkOdVzbwrJDjVmwoAf8Nj2vFiRd+sm83ba4Nk=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.7QPfXiRwnYC8zG9i677RtA==|zDdpLB4SN7DQ0Sb/YvPvhqkiL8DUUhO7+A62RIyv1CaMV39yHMoZ4ib3lYDQ2tXZnHbs7yjOCWsj5Y9Q+7fktQ==|LEP/7P40h5WFzJt8APa2CUtCM2daVhHvKrMl4ZFJ6BY="
+                }
+              ]
+            }
+          },
           "2a3013c9-ff1a-45a6-8e0f-f23efbea0ca9": {
             "id": "2a3013c9-ff1a-45a6-8e0f-f23efbea0ca9",
             "organizationId": null,
@@ -1515,6 +1544,35 @@
                 {
                   "match": null,
                   "uri": "2.bNNSV3/Fs5p9hq8g4j9zDw==|8kAgOly+CEsznlqdhYkxH/IK1HeG3NJPsdKgnHzU/t4=|0DpVZKfSBqNeJh+pWbx0ydTnyPYBSmP1anUNJuQ9H0U="
+                }
+              ]
+            }
+          },
+          "39c3cfcf-3f67-4e26-bc24-5626f1744d70": {
+            "id": "39c3cfcf-3f67-4e26-bc24-5626f1744d70",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-11-10T09:42:53.585860Z",
+            "type": 1,
+            "name": "2.8rchwEpVaEwzMTMIyORxag==|8F3hyLUAqlqQDsjULlhXcw==|ziNXt2pCP1NEqm444xwJmY24mw7jRDU/1dMM6NESiCw=",
+            "notes": null,
+            "collectionIds": [],
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.TTns0MG0Kg/IhHpfi/KzNg==|bnTjVtpzd+f684gmYzsOYrU3HxnuqVRBojrtLAhuvXQ=|qITDG4S3wMkbwFchP5BtROXG1uXGO8/o61R1j5O/wFU=",
+              "password": "2.r9TLGF1+Ui41uPDWg7eLFg==|xPDSof3PasJnYoQ4GDiOydyA3QpgsQu3kPKO4RiOXuw=|8HWZ7/1t/Y1UYhENacU6ybN3UfjzvD/M2AlCW8B8vvI=",
+              "passwordRevisionDate": null,
+              "totp": "2.i6MwfnoBkktdBHfzpxJ6Eg==|NT1U/COKXH0WIN+DgPlGR2nLsVh+S/lHyJWvP6RcapeoMf96I1EmVhc/dY+kCTjl|w6yUB8TaT8WDGOQUEwD9YVO76OI+BId00exqUCB5rbg=",
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.bBuMJex6R3nWNuzX9Oaikg==|3bSrBAv5ypxLKmcSoTJvfTWvDYfbD+6vzoGIurskNDOpWEehIMKkq37Zndk+wQez|6HJDElGhyAruUY/NWX80oHTaI7A4nfv0ZFGa4b5gpVs="
                 }
               ]
             }
@@ -5387,7 +5445,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-11-09T21:11:16.686Z"
+      "lastSync": "2023-11-10T21:11:19.995Z"
     },
     "settings": {
       "environmentUrls": {
@@ -5415,7 +5473,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1699564276567
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1699650679878
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
