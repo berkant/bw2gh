@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "679534c7-6c8d-4a75-a0b4-baf40739af43",
+  "appId": "0430ba2e-be9d-4e29-94f3-af6bfad3eead",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -849,7 +849,7 @@
             "attachments": [
               {
                 "id": "057c21ed61cfabf5ae3a",
-                "url": "https://vault.berkant.dev/attachments/1a9b27d5-5c36-4ec7-a8c6-ca3b3380237f/057c21ed61cfabf5ae3a?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3MDI1MDE5MDgsImV4cCI6MTcwMjUwMjIwOCwiaXNzIjoiaHR0cHM6Ly92YXVsdC5iZXJrYW50LmRldnxmaWxlX2Rvd25sb2FkIiwic3ViIjoiMWE5YjI3ZDUtNWMzNi00ZWM3LWE4YzYtY2EzYjMzODAyMzdmIiwiZmlsZV9pZCI6IjA1N2MyMWVkNjFjZmFiZjVhZTNhIn0.X9-TtpoqvllhajQV9HMtw9U5lwdaz_rMH7jt6k7HJWBmQsqJ_8YoWkovuzXPWA_ZxNuzbRJJdy_d-XssArZbDYaueN46R9uNZbEFAyXpBg16h1N7gdHIW8TnRcVVUsykn6UcAPOBT6qereyd1TXZCnRxnAGt2umFjo32cz2pbj9eXhckrXsbQkeJ79YuRgKuQTf4UmV8V_W3Ek2K7tmzqHfPLiLOM31DYWRmJ_RM1zs6C9Nh0BNUdiNEGiwiPLnsDzLeiYGQq8Ec367HE1N7LjJ7iBqLx8va8kCpiNaDX7D-cIy1ovHUK0Fa11iyDgUktH3N4fSw75O0YFCuMCZB2Q",
+                "url": "https://vault.berkant.dev/attachments/1a9b27d5-5c36-4ec7-a8c6-ca3b3380237f/057c21ed61cfabf5ae3a?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3MDI1ODgzMTcsImV4cCI6MTcwMjU4ODYxNywiaXNzIjoiaHR0cHM6Ly92YXVsdC5iZXJrYW50LmRldnxmaWxlX2Rvd25sb2FkIiwic3ViIjoiMWE5YjI3ZDUtNWMzNi00ZWM3LWE4YzYtY2EzYjMzODAyMzdmIiwiZmlsZV9pZCI6IjA1N2MyMWVkNjFjZmFiZjVhZTNhIn0.xbYPfMQUTNlr43paErQUoeNiGYBgJvPF59_Z0LlK-BSyCgVjSKFdClMPiznL1FAVRyhHLynrCJALYN-y0Cd2z_iRQ2ngOQmWliGcg8mYoPXQHHecKgwOkw2eYYdrSO6PSoFn9oim8KkoN86aVFd72FF00eJqilpb2TvglhIzMYkRhQQnV77_tEIaUrcXlHeJzPcoLi9gui4_djAPr_9tkEOPmOeiyxBS7fzeoG5t9uMKpv7TwYU1wfiU2y6PAvlDQht2FEY4M5X1Lg4ikLNaAANwX976SsASyHmO_rvArriJvjm8uwBU6ZpHeN6_hKAA-dTClHqpy-9nVjKsrOaWzQ",
                 "fileName": "2.qVOMOB180G65tAJHf9D1eg==|siKPeYqwtBq0deDRurOtejKn93vRRJkbuD3En2UsARI=|vxUqQRcv09o12n9LLqJKy1AyY4/RgFM+wa5VOeTY2ls=",
                 "key": "2.hTzM9B3/bmGPAU2+TvUigQ==|dAHgBUckQuXmzVJRIFZLKE8KW5viKe4noi+fiFYQrHL2HLKlboG8lLZRFm2vxhxnYShIemiztk1fxuY7zpyQXaniesm+FcJ8G+GAFwftosU=|pPo7XSNR/AFpeWPEHFsJ83DlYN9n+rIzoj/x+IV20JA=",
                 "size": "433",
@@ -1579,23 +1579,23 @@
             "viewPassword": true,
             "organizationUseTotp": true,
             "favorite": false,
-            "revisionDate": "2023-09-30T10:44:01.532628Z",
+            "revisionDate": "2023-12-14T09:24:51.222257Z",
             "type": 1,
-            "name": "2.BsZW2kbBNYTK2ATssRiz0w==|hnVR20Go+4aEmZogWYl6lS/3qQbHRPZKLNGhSR6mpbA=|SX5xFtI/oOJ+BO5kl3ELj5dF+mZeKrzRVx2/0KOh7jY=",
+            "name": "2.vG/31hgPZ6muA+RCXL6v1w==|GkVxPrPs3Nota9vZT18gjP5VG+3Y5xk9hpbjjl7auHY=|G3PxPWU8z+7w/Rd0M2rN5GLmKFwLf8w9tmhdrXmGdOI=",
             "notes": null,
             "collectionIds": [],
             "creationDate": "2023-09-30T10:44:01.532400Z",
             "deletedDate": null,
             "reprompt": 0,
             "login": {
-              "username": "2.dM3vWKdw1koIt4IzwRBqpA==|zQj1j+Fn6iJOPOggoXg32YI75xYp+/mP9r26X+e3+h4=|Ta2vmFTLoWpsadE8YQ+Jsyb33giBMonBukMV9efqp7s=",
-              "password": "2.epg/wPvGnG2potuz055WkQ==|Fhimg8a7zCJsazrtxIQPgeVJDJAjQ0WF1onNKPMziHg=|Jllv7c8vCHB17AlEVobbFMCwNZXMpCVgAXdTZ4fezbE=",
+              "username": "2.UtF8f6ZWkxhcA4u51NtFZQ==|E3p54arUZELqT0v1hjs/BnnnP0xNyk4gftunbSbEC/A=|yiKDcxkzbC416hdWApMIWDhbmbOT27qFWk04mLgXmeM=",
+              "password": "2.12tADNLd9QTwBtopRZ+KPw==|Xqx/XF+f/QkUWDtZb9B/ExCds7jKQCQ7b2ef7qb/8Ts=|+ManxZDtWxay6SFdSWOgeKaEb0k8wleHuF+oOfb4vEY=",
               "passwordRevisionDate": null,
               "totp": null,
               "uris": [
                 {
                   "match": null,
-                  "uri": "2.bNNSV3/Fs5p9hq8g4j9zDw==|8kAgOly+CEsznlqdhYkxH/IK1HeG3NJPsdKgnHzU/t4=|0DpVZKfSBqNeJh+pWbx0ydTnyPYBSmP1anUNJuQ9H0U="
+                  "uri": "2.amfCBg/Z7GcGFLrdSnFMsg==|kwxOUwh+IMVX/U2zN+sHN0LfYN2I3zHstHCAjHhd6a4=|/9+hHyjsl/hqEI5wwmtqslIGj4aKWCavuCnrJjyzYcw="
                 }
               ]
             }
@@ -4518,6 +4518,36 @@
               ]
             }
           },
+          "c0ac7ceb-c84c-49e7-9905-f228fd72db61": {
+            "id": "c0ac7ceb-c84c-49e7-9905-f228fd72db61",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2023-12-13T23:23:22.385552Z",
+            "type": 1,
+            "name": "2.2jFI2OVGiZqRGiVnSed+TA==|+itIzMmO2jSzvPwJbZUc/g==|BTRliAxJXrQugdccrrxPJi+dEI+q0QnFqaNMGkxoseE=",
+            "notes": null,
+            "collectionIds": [],
+            "creationDate": "2023-12-13T23:23:22.385302Z",
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": null,
+              "password": null,
+              "passwordRevisionDate": null,
+              "totp": "2.f3fdr1qfooy2OEFlQVpayg==|W/+UhfVXcEjbfv3tBxdWScOknz8bHXUTJ2Ja8lHNTukhGgN87GHmoOHceNHSGHn0Y4xS1AWBSKL4y46/FRlw7A==|8BnC6UF1hg/EFHZ3SaMK8q2Igq6VkGN+l6JGlRY9Wgc=",
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.FvTHK2A7d7ogfdGssSEx4Q==|3awBgcMP5UZMLknNZ9OOk2B8TP61SigSZfbZzfJABmr4NI7ZC4iR/yqkZBig6/7Z|IeVQ0xCoisQM5bS6PU9Y/MsdfJkkXlGWhzpCRWCv7aU="
+                }
+              ]
+            }
+          },
           "c119edc3-87e8-4681-b379-b43a219f2520": {
             "id": "c119edc3-87e8-4681-b379-b43a219f2520",
             "organizationId": null,
@@ -5733,7 +5763,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2023-12-13T21:11:48.404Z"
+      "lastSync": "2023-12-14T21:11:57.263Z"
     },
     "settings": {
       "environmentUrls": {
@@ -5761,7 +5791,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1702501908289
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1702588317148
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
