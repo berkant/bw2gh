@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "98189de6-5d8b-4b6e-b66f-98a36bca0d8b",
+  "appId": "ebbdddf1-9b89-4098-8bf3-c550e87dd37f",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -945,7 +945,7 @@
             "attachments": [
               {
                 "id": "057c21ed61cfabf5ae3a",
-                "url": "https://vault.berkant.dev/attachments/1a9b27d5-5c36-4ec7-a8c6-ca3b3380237f/057c21ed61cfabf5ae3a?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3MDU0Mzk1MzcsImV4cCI6MTcwNTQzOTgzNywiaXNzIjoiaHR0cHM6Ly92YXVsdC5iZXJrYW50LmRldnxmaWxlX2Rvd25sb2FkIiwic3ViIjoiMWE5YjI3ZDUtNWMzNi00ZWM3LWE4YzYtY2EzYjMzODAyMzdmIiwiZmlsZV9pZCI6IjA1N2MyMWVkNjFjZmFiZjVhZTNhIn0.fcQY8EpLmP7mSjv-oPyZCCw4qPpeFnqLjwHDn0Pnv-h9LDLpMGg2ItUk8nwGIMJsmq192HV9Q66La4w5m_k-qqoJZJ1bHgIBVv8pVcCSyyIZw4lG2H4sOWGJkXPMw1Y29C5wdDTxW2Q-YcmKpOF1mfajpN_sPzQSFhwBiZx0AXUUNmefp0O7WSvllvzdXdsv5bdgJDnWWv-qrL-Dk5So9ifNQfz5gn1XWF4S85fAiy6OLlVHo1hI_qb8DUBOkaolryts2zKIzkKgoXNSfThg_ys1dO6vuE3HVMbIw7dAku3Ar_55im3Hd-kBmR7OWwWtmvTR3UItx1lw4jgO-MGuOw",
+                "url": "https://vault.berkant.dev/attachments/1a9b27d5-5c36-4ec7-a8c6-ca3b3380237f/057c21ed61cfabf5ae3a?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3MDU1MjU5MzcsImV4cCI6MTcwNTUyNjIzNywiaXNzIjoiaHR0cHM6Ly92YXVsdC5iZXJrYW50LmRldnxmaWxlX2Rvd25sb2FkIiwic3ViIjoiMWE5YjI3ZDUtNWMzNi00ZWM3LWE4YzYtY2EzYjMzODAyMzdmIiwiZmlsZV9pZCI6IjA1N2MyMWVkNjFjZmFiZjVhZTNhIn0.dj43YUe2jmmhFj21pbwD-rK0BSOFoW1TMHeNJGA7mXuJjEscRulAzmkeQYJcMYwwWtJWe2muiqjpYB7486bNIgUa6PYHnLBImORcrnWw7b238yiA4oQ7U8BE26KEFT-zrTTYLZI_OF-eZs32Kz9UyMI4SrUW4UXfVyafstrd6ONB7bXJxeIzzq9gEGhYvr8K_IWOWaH7-JXsEXDAQWbyTxbeTOqMWf8Lb5mj-RnBQAMvOSMyOg-z6ogzpSUwLojYn5ElVs6q7Xc6W_0coLxUxgTAchtuB-OIpbq4QAJ7TskkiEm9sntKkeVH9kyZQ-PzhoK5yLb1may4YJ7l8l9YnQ",
                 "fileName": "2.qVOMOB180G65tAJHf9D1eg==|siKPeYqwtBq0deDRurOtejKn93vRRJkbuD3En2UsARI=|vxUqQRcv09o12n9LLqJKy1AyY4/RgFM+wa5VOeTY2ls=",
                 "key": "2.hTzM9B3/bmGPAU2+TvUigQ==|dAHgBUckQuXmzVJRIFZLKE8KW5viKe4noi+fiFYQrHL2HLKlboG8lLZRFm2vxhxnYShIemiztk1fxuY7zpyQXaniesm+FcJ8G+GAFwftosU=|pPo7XSNR/AFpeWPEHFsJ83DlYN9n+rIzoj/x+IV20JA=",
                 "size": "433",
@@ -2374,6 +2374,36 @@
                 {
                   "match": null,
                   "uri": "2./UXvpDAfpEaAm2kkmjTO4Q==|3BcDFNf20zB++LTw8GHUCkmxVFxCf3sRuwAcF9AIfbg=|5VX90ygXo7YgjpHGVSQHpd4QerSEoyVYcWZOnfHxRQE="
+                }
+              ]
+            }
+          },
+          "5ad77cd2-dc02-4a57-8468-5612cac4a3db": {
+            "id": "5ad77cd2-dc02-4a57-8468-5612cac4a3db",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2024-01-17T15:25:48.022677Z",
+            "type": 1,
+            "name": "2.A7+dOQXkkCr2qkajVHrqkw==|uOrmIGXj0wNrjdMi3eKNTA==|u8zOZkYHjvXIiWM2nuos3NpSRl0i48WGNeh3aAmGl+8=",
+            "notes": null,
+            "collectionIds": [],
+            "creationDate": "2024-01-17T15:25:48.022474Z",
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.QefH+RBMKQ7aHRBgVKvATw==|xj9I9DX8yiaBg+nqSHKz/VuzodV1T7rKmSzwBFv5lCw=|QK3n7HgSQ9UZm1H+Uy+Yo/vQa0W9pa2j9c3qVHl8PT8=",
+              "password": "2.ChIORY5QHHHjYp0k88Wcmw==|ygeyRZeaHXq3oU4LiXwANA==|5TohFZxBS++EvzQuAq9hWrTzVwzyl0ftCoWAmHTkBqc=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.D+rPL1DkFjxjth0hixx1FA==|MfjAg7Lr3TKnOysOJkwG2ObE3+P62K4+mvWTECpXfgQRq+cX41TE5PoZj94p/jXm|vNiC98gr5ipGx7nNbdPvJ9SaFjPEk7Jp8XSM87fKWxQ="
                 }
               ]
             }
@@ -5514,6 +5544,36 @@
               ]
             }
           },
+          "dc427ea9-6d9a-43db-9602-131898dd3d29": {
+            "id": "dc427ea9-6d9a-43db-9602-131898dd3d29",
+            "organizationId": null,
+            "folderId": null,
+            "edit": true,
+            "viewPassword": true,
+            "organizationUseTotp": true,
+            "favorite": false,
+            "revisionDate": "2024-01-17T15:28:21.064084Z",
+            "type": 1,
+            "name": "2.hqxnOsNC/DOxaix/N1XBPg==|TZ+DG8Ql+FljdnQVYViI4mqwsvCQ4I2qPtumldq3IMU=|eN4xqEqEQWwFiY4WBCS5jxpfzJ4q6l3dSMwAZ2rbsjk=",
+            "notes": null,
+            "collectionIds": [],
+            "creationDate": "2024-01-17T15:28:21.063891Z",
+            "deletedDate": null,
+            "reprompt": 0,
+            "login": {
+              "username": "2.r0T3phQt3s+8sTIn0dSIUQ==|LLwyVe9ZLBvUDbr2LWyD8ZcWjoojUbwCCefjTL54DJ4=|dnHPtPxybMq16iAkPypLcT6DjHFpmZe3qBmJEx/vbSg=",
+              "password": "2.rdTRu7OezxzqzuDgpZ2cXQ==|VW9hv5/KLBfuJjYAk7y6HA==|RjvVW9Ysd9l2ctMEgM0h2GU78+O4ejMaTUge0Vo+voM=",
+              "passwordRevisionDate": null,
+              "totp": null,
+              "autofillOnPageLoad": null,
+              "uris": [
+                {
+                  "match": null,
+                  "uri": "2.j3fLX0aEZtZfdss+SSKw0Q==|suvQwQiBS8jgklg4ZyZYwu/TJTeybNVRtD764xXr8NyykbkX9WAuXx9UpRRYCRIhN/mGJlOmceG4fykc2QgiZGRksl+MDlZt9evK0v60CKs=|qbguKxPYYrBHJ1CL9eI2TbAZt0uslLgzM/B6eJ9ka+0="
+                }
+              ]
+            }
+          },
           "de6b888b-85f9-458e-ac94-602ed9b3bd6d": {
             "id": "de6b888b-85f9-458e-ac94-602ed9b3bd6d",
             "organizationId": null,
@@ -6105,7 +6165,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2024-01-16T21:12:16.699Z"
+      "lastSync": "2024-01-17T21:12:17.279Z"
     },
     "settings": {
       "environmentUrls": {
@@ -6133,7 +6193,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1705439536584
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1705525937163
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
