@@ -18,7 +18,7 @@
   "authenticatedAccounts": [
     "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
   ],
-  "appId": "0350de08-3a91-4807-8bbc-0636fb410573",
+  "appId": "5f3f93b1-0ecb-4e88-84a9-bd3b2ca2e6a6",
   "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": {
     "data": {
       "ciphers": {
@@ -945,7 +945,7 @@
             "attachments": [
               {
                 "id": "057c21ed61cfabf5ae3a",
-                "url": "https://vault.berkant.dev/attachments/1a9b27d5-5c36-4ec7-a8c6-ca3b3380237f/057c21ed61cfabf5ae3a?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3MDkyNDEyMzEsImV4cCI6MTcwOTI0MTUzMSwiaXNzIjoiaHR0cHM6Ly92YXVsdC5iZXJrYW50LmRldnxmaWxlX2Rvd25sb2FkIiwic3ViIjoiMWE5YjI3ZDUtNWMzNi00ZWM3LWE4YzYtY2EzYjMzODAyMzdmIiwiZmlsZV9pZCI6IjA1N2MyMWVkNjFjZmFiZjVhZTNhIn0.I940rvB_s2Hamgs5_RmGXyu7v6xkkrdX4b8nDUimXe_j1e5v37Yfiar0tlpLQ8scUsbM4br_Wh-fPAj6ADJXmy3Li1OjObZ_962aKQBzzHV1SW0CCZz3wAWFCtNHoOVYuqkzSs4Hg7Y1fqgvEvOjjb1WFmsWKBu2slPPBfTzF715nTl_p7DEflP83eMxf6DLn7O6kdCCZENfd2AcJMRplr5r9xaXd5zWzo6XT_zVr-lOxSUtF8BpQUKUCYTDjD8UbSeTXd-N-33R3FNuXmdr1hY_ocQm373MXE70ECkoVsZLH0twDHwAzl2pPcxHaUFx6wM_znryz6qsZRwXyA_2jw",
+                "url": "https://vault.berkant.dev/attachments/1a9b27d5-5c36-4ec7-a8c6-ca3b3380237f/057c21ed61cfabf5ae3a?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3MDkzMjc1NTgsImV4cCI6MTcwOTMyNzg1OCwiaXNzIjoiaHR0cHM6Ly92YXVsdC5iZXJrYW50LmRldnxmaWxlX2Rvd25sb2FkIiwic3ViIjoiMWE5YjI3ZDUtNWMzNi00ZWM3LWE4YzYtY2EzYjMzODAyMzdmIiwiZmlsZV9pZCI6IjA1N2MyMWVkNjFjZmFiZjVhZTNhIn0.vFyCJYffW00qdc35wgY4sUTcq65_yNiQHVnPMECjqcHgX7ePsPiHB1NfoUUApJlcEhKlbIHAb1jxVWFUrUMPvZ5PsCQxurTnTlWwhSiy0DnVPngMRrQM6GBxnWF6vI-P2Aaa3es0d2l7VOld9UzJ_dAB6pbwIYF5qI71PKzPK4c9VGvtu2SMT0-g2QCMa9SsnsI16Vus0YdaVXU7nLOo4PkuyqJDeCg7KHDsw6PB_ubzY8g6ReRkaAr_jc7q3EPm7eatWLu8ni93lvnQsCA8-lFVn7sOn2SbcEKUqfdBmDRjGx7_eHP_Wl5IZZJsQ4Q0gWayTgnz2BUH_FAWNVTyVg",
                 "fileName": "2.qVOMOB180G65tAJHf9D1eg==|siKPeYqwtBq0deDRurOtejKn93vRRJkbuD3En2UsARI=|vxUqQRcv09o12n9LLqJKy1AyY4/RgFM+wa5VOeTY2ls=",
                 "key": "2.hTzM9B3/bmGPAU2+TvUigQ==|dAHgBUckQuXmzVJRIFZLKE8KW5viKe4noi+fiFYQrHL2HLKlboG8lLZRFm2vxhxnYShIemiztk1fxuY7zpyQXaniesm+FcJ8G+GAFwftosU=|pPo7XSNR/AFpeWPEHFsJ83DlYN9n+rIzoj/x+IV20JA=",
                 "size": "433",
@@ -6284,7 +6284,7 @@
       "emailVerified": true,
       "usesKeyConnector": false,
       "convertAccountToKeyConnector": null,
-      "lastSync": "2024-02-29T21:13:51.420Z"
+      "lastSync": "2024-03-01T21:12:37.867Z"
     },
     "settings": {
       "environmentUrls": {
@@ -6312,7 +6312,7 @@
     }
   },
   "accountActivity": {
-    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1709241231306
+    "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c": 1709327557751
   },
   "activeUserId": "61375a6e-e9ef-4f85-b037-bd2c15f2ee8c"
 }
