@@ -23,7 +23,7 @@ jobs:
       # - run: rclone copy --log-level=ERROR -P "`envsubst <<< $BW_LOWDB_PATH`" :drive:Bitwarden_CLI_Backup/
       #   env:
       #     RCLONE_DRIVE_TOKEN: ${{ secrets.RCLONE_DRIVE_TOKEN }}
-      - run: jq '.authenticatedAccounts[] as $accounts | setpath([$accounts, "keys", "apiKeyClientSecret"]; "[REDACTED]") | setpath([$accounts, "tokens", "accessToken"]; "[REDACTED]") | setpath([$accounts, "settings", "environmentUrls", "base"]; "https://[REDACTED]") | setpath(["global", "environmentUrls", "base"]; "https://[REDACTED]")' "`envsubst <<< $BW_LOWDB_PATH`" > bw.lowdb.json
+      - run: jq '.authenticatedAccounts[] as $accounts | setpath([$accounts, "keys", "apiKeyClientSecret"]; "[REDACTED]") | setpath([$accounts, "tokens", "accessToken"]; "[REDACTED]")' "`envsubst <<< $BW_LOWDB_PATH`" > bw.lowdb.json
       - run: |
           set -euxo pipefail
            
