@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - run: sudo npm install -g @bitwarden/cli@2022.11.0
+      - run: sudo npm install -g @bitwarden/cli@2024.2.1
       - run: bw config server ${{ secrets.BW_SERVERURI }}
       - run: bw login --apikey
         env:
